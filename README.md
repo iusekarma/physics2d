@@ -1,6 +1,8 @@
 # 2D Physics Engine
 A simply 2d physics engine which simulates motion, gravity and collisions between bodies.
 
+This project was inspired by a youtube video by [Pezzza's Work](https://www.youtube.com/@PezzzasWork) ([video here](https://www.youtube.com/watch?v=lS_qeBy3aQI)) and a playlist by [Two-Bit Coding](https://www.youtube.com/@two-bitcoding8018) ([playlist here](https://www.youtube.com/playlist?list=PLSlpr6o9vURwq3oxVZSimY8iC-cdd3kIs)). Check them out for a physics engine made using C++ and C#.
+
 <center>
 <div>
     <img style="display:inline;height:150px" src="readme_assets/output_open.gif"></img>
